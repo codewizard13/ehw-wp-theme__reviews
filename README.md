@@ -44,11 +44,15 @@
 
 **_Laravel Mix works (VID 15)_**
 
-![Laravel Mix works (VID 15)](/pix/screen-ES-Site-Rebuild-2025-103--01--single-cars--laravel-mix-works.jpg)
+![Laravel Mix works (VID 15)](/assets/images/screens/ehw-car-theme-103--01--single-cars--laravel-mix-works.jpg)
 
 **_single-cars.php:  Form success (VID 14)_**
-![single-cars.php:  Form success (VID 14)](/pix/screen-ES-Site-Rebuild-2025-103--09--single-cars--form-success.jpg)
+![single-cars.php:  Form success (VID 14)](/assets/images/screens/ehw-car-theme-001--02--single-cars.jpg)
 
+
+**_Laravel Mix works (VID 15)_**
+
+![single-cars - Form succes (VID 15)](/assets/images/screens/ehw-car-theme-103--09--single-cars--form-success.jpg)
 
 
 ## CODE
