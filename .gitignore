@@ -93,6 +93,7 @@ node_modules/
 /coverage
 /*.sublime-*
 /*~
+/*tmp/*
 
 
 # APPLICATIONS #
