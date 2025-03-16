@@ -104,6 +104,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
 	<!-- Custom styles for this template -->
 	<link href="blog.css" rel="stylesheet">
+	<?php wp_head(); ?>
 </head>
 
 <body>
@@ -505,18 +506,16 @@
 
 	</main>
 
-	<footer class="py-5 text-center text-body-secondary bg-body-tertiary">
-		<p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a
-				href="https://twitter.com/mdo">@mdo</a>.</p>
-		<p class="mb-0">
-			<a href="#">Back to top</a>
-		</p>
-	</footer>
+
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
 		integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
 		crossorigin="anonymous"></script>
 
+	<?php git_template_part('footer'); ?>
 
-</body>
 
-</html>
+<?php
+
+
+
+?>

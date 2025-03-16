@@ -16,7 +16,14 @@
 
 		</div><!-- #content -->
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
+		<footer class="site-footer py-5 text-center text-body-secondary bg-body-tertiary" id="colophon" role="contentinfo">
+		<p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a
+				href="https://twitter.com/mdo">@mdo</a>.</p>
+		<p class="mb-0">
+			<a href="#">Back to top</a>
+		</p>
+	</footer>
+
 			<div class="wrap">
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
